@@ -1,0 +1,22 @@
+# Build output
+/target
+
+# Generated scan reports
+*.csv
+report*.json
+out.json
+
+# Local environment / secrets
+.env
+.env.*
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Debug symbols
+*.pdb
